@@ -3,7 +3,6 @@
 ## О себе
 Junior Backend Developer.
 Специализируюсь на Python.
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 ## Технический стек
 - Python, FastAPI
