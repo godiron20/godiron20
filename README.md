@@ -1,15 +1,15 @@
-# ? Привет, я Александр
+# Привет, я Александр
 
-## ?‍? О себе
+## О себе
 Junior Backend Developer.
 Специализируюсь на Python.
 
 
-## ? Технический стек
+## Технический стек
 - Python, FastAPI
 - PostgreSQL, Redis
 - Docker
 
-## ? Контакты
+## Контакты
 - Email: sasha.goncharov.08.10@gmail.com
 - Telegram: @godiron23
