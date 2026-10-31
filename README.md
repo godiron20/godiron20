@@ -2,8 +2,10 @@
 
 ## О себе
 Junior Backend Developer.
-Специализируюсь на Python.
+
 <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/ce604ebe-4be5-4b8c-86e3-9e3b92cda842" />
+<img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/753062e5-cde6-4be3-926f-d09311f40be3" />
+<img width="32" height="32" alt="vscode" src="https://github.com/user-attachments/assets/a6bf3213-d709-420b-8f06-babc87271ec0" />
 
 ## Технический стек
 - Python, FastAPI
